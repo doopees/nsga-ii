@@ -2,7 +2,7 @@
 A Python implementation of the popular elitist genetic algorithm [NSGA-II](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf) (Deb et al.) to solve multi objective optimization problems.
 
 ## Algorithm visualization
-I have to remember what any of this means.
+I need to remember what any of this means.
 
 * Initial unsorted population
 
