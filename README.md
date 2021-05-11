@@ -3,6 +3,7 @@ Python implementation of the elitist multi objective genetic algorithm NSGA-II.
 
 ## Algorithm
 * Initial unsorted population
+
 ![](/media/unsorted_population.png)
 * Initial Pareto frontiers
 ![](/media/initial_pareto_frontiers.png)
