@@ -1,7 +1,9 @@
 # NSGA-II
 Python implementation of the elitist multi objective genetic algorithm NSGA-II.
 
-## Algorithm
+## Algorithm visualization
+I have to remember what any of this means.
+
 * Initial unsorted population
 
 <p align="center">
@@ -19,5 +21,3 @@ Python implementation of the elitist multi objective genetic algorithm NSGA-II.
 <p align="center">
 <img src="/media/final_pareto_frontier.png"/>
 </p>
-
-I have to remember what any of this means.
