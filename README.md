@@ -21,3 +21,5 @@ I have to remember what any of this means.
 <p align="center">
 <img src="/media/final_pareto_frontier.png"/>
 </p>
+
+Jupyter notebook [here](https://colab.research.google.com/github/doopees/nsga-ii/blob/main/notebook/nsga_ii.ipynb)
